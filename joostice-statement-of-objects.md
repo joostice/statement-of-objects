@@ -20,8 +20,6 @@
 
 3. To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
 
-7. Joostice shall make decisions on the allocation of funding by consensus of the committee of management.
-
 8. Joostice shall be transparent in all its financial dealings, unless such transparency would pose a threat to life or liberty.
 
 9. Joostice is not aligned to any religious or political groups. Membership is inclusive. Members may hold disparate political and religious views.
