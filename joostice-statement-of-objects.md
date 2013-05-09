@@ -16,16 +16,16 @@ Objects;
 
 2.  Joostice is an association formed in 2012 to support, through direct funding and other means, critical public interest journalism.
 
-		2.a  ‘Critical’ is to be understood in context of need, the capacity of the undertaking to shape public discourse and the magnitude of the issue under examination.
+2.a  ‘Critical’ is to be understood in context of need, the capacity of the undertaking to shape public discourse and the magnitude of the issue under examination.
 
-		2.b 	‘Public interest’ is to be determined by the board and its members. ‘Public’ is to be understood in the broadest, global, terms.
+2.b 	‘Public interest’ is to be determined by the board and its members. ‘Public’ is to be understood in the broadest, global, terms.
 
 3.	To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
 
 4.	The aim of Joostice is to support individuals and organisations who undertake critical public interest journalism, providing funds from profits made through our commercial enterprise.
 
 
-		4.a	To achieve this object Joostice may, at the discretion of its board and members, invest in the development of open-source tools useful to those undertaking public interest journalism, for example; anonymous publishing and encrypted communications systems.
+4.a	To achieve this object Joostice may, at the discretion of its board and members, invest in the development of open-source tools useful to those undertaking public interest journalism, for example; anonymous publishing and encrypted communications systems.
 
 5.	Recognizing that available funds shall be limited, Joostice shall allocate no greater than 30% of its total funds to any one particular group, individual or project unless a special resolution is agreed to by consensus.
 
