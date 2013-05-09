@@ -6,7 +6,7 @@
 
 1. The name of the association shall be ‘Joostice’.
 
-2. Joostice is an association formed in 2012 to support, through direct funding and other means, critical public interest journalism.
+2. Joostice exists to support, through direct funding and other means, activities that shed light on matters of public interest.
 
 	2.1. ‘Critical’ is to be understood in context of need, the capacity of the undertaking to shape public discourse and the magnitude of the issue under examination.
 
