@@ -20,8 +20,6 @@
 
 3. To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
 
-14. To the extent that it is consistent with these objects, Joostice may heed requests for assistance from groups and individuals undertaking activities that promote freedom, peace, justice, and human dignity.
-
 15. Joostice will not seek or accept funding from any government body or corporation.
 
 16. Joostice accepts the financial and moral obligations to promote its objects.
