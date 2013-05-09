@@ -20,6 +20,4 @@
 
 3. To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
 
-15. Joostice will not seek or accept funding from any government body or corporation.
-
 16. Joostice accepts the financial and moral obligations to promote its objects.
