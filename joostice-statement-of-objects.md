@@ -12,9 +12,11 @@
 
 	2.2. Non-Violent Direct Action
 	
-	2.3. Campaigns
+	2.3. Campaigns Against Injustice
 
-	2.4. ‘Public interest’ is to be determined by the committee of management. ‘Public’ is to be understood in the broadest, global, terms.
+	2.4. Whistleblowing and Whistleblower Protection
+
+	2.5. ‘Public interest’ is to be determined by the committee of management. ‘Public’ is to be understood in the broadest, global, terms.
 
 3. To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
 
