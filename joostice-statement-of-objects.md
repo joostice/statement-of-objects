@@ -19,5 +19,3 @@
 	2.5. ‘Public interest’ is to be determined by the committee of management. ‘Public’ includes each and every passenger aboard spaceship Earth.
 
 3. To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
-
-16. Joostice accepts the financial and moral obligations to promote its objects.
