@@ -16,7 +16,7 @@
 
 4. The aim of Joostice is to support individuals and organisations who undertake critical public interest journalism, providing funds from profits made through our commercial enterprise.
 
-4.1 To achieve this object Joostice may, at the discretion of its board and members, invest in the development of open-source tools useful to those undertaking public interest journalism, for example; anonymous publishing and encrypted communications systems.
+	4.1 To achieve this object Joostice may, at the discretion of its board and members, invest in the development of open-source tools useful to those undertaking public interest journalism, for example; anonymous publishing and encrypted communications systems.
 
 5. Recognizing that available funds shall be limited, Joostice shall allocate no greater than 30% of its total funds to any one particular group, individual or project unless a special resolution is agreed to by consensus.
 
