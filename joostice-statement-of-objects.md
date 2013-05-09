@@ -20,8 +20,6 @@
 
 3. To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
 
-10. All administrative costs and other expenses not directly achieving these objects should approach 0%.
-
 11. Joostice shall engage in business ethically and sustainably, insisting on the same throughout its entire supply chain.
 
 12. Joostice shall operate as a consensus democracy for important decisions and a dictatorship for its day-to-day operations.
