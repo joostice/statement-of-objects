@@ -14,7 +14,7 @@
 	
 	2.3. Campaigns Against Injustice
 
-	2.4. Whistle-blowing and infrastructure that supports and protects Whistle-blowers
+	2.4. Whistle-blowing and infrastructure to support and protect Whistle-blowers
 
 	2.5. ‘Public interest’ is to be determined by the committee of management. ‘Public’ includes each and every passenger aboard spaceship Earth.
 
