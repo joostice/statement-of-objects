@@ -22,9 +22,6 @@ Objects;
 
 3.	To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
 
-
-4.	The aim of Joostice is to support individuals and organisations who undertake critical public interest journalism, by providing funds from profits made through its commercial enterprises.
-
 4.	The aim of Joostice is to support individuals and organisations who undertake critical public interest journalism, providing funds from profits made through our commercial enterprise.
 
 
