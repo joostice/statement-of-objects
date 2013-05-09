@@ -20,8 +20,6 @@
 
 3. To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
 
-5. Recognizing that available funds shall be limited, Joostice shall allocate no greater than 30% of its total funds to any one particular group, individual or project unless a special resolution is agreed to by consensus.
-
 6. Any member of Joostice may nominate groups, individuals or projects for funding or support.
 
 7. Joostice shall make decisions on the allocation of funding by consensus of the board and its members.
