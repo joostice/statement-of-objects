@@ -1,16 +1,13 @@
-Associations Incorporation Act 2009
+## Associations Incorporation Act 2009
 
 
-Statement of objects
+# Statement of objects
 
-of
-
-Joostice
-
-2013
+# Joostice
 
 
-Objects;
+
+### Objects;
 
 1.  The name of the association shall be ‘Joostice’.
 
