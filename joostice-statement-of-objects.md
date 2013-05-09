@@ -1,9 +1,7 @@
-## Associations Incorporation Act 2009
+### Associations Incorporation Act 2009
 
 
-# Statement of objects
-
-# Joostice
+# Joostice - Statement of Objects
 
 
 
