@@ -14,7 +14,7 @@
 	
 	2.3. Campaigns Against Injustice
 
-	2.4. Whistleblowing and Whistleblower Protection
+	2.4. Whistle-blowing and infrastructure that supports and protects Whistle-blowers
 
 	2.5. ‘Public interest’ is to be determined by the committee of management. ‘Public’ is to be understood in the broadest, global, terms.
 
