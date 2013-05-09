@@ -20,8 +20,6 @@
 
 3. To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
 
-12. Joostice shall operate as a consensus democracy for important decisions and a dictatorship for its day-to-day operations.
-
 13. Joostice may lobby governments and parliaments to repeal any laws that jeopardise press freedoms or have the practicable effects of stifling dissent, and will promote laws that protect whistleblowers, journalists and the freedom of the press.
 
 14. To the extent that it is consistent with these objects, Joostice may heed requests for assistance from groups and individuals undertaking activities that promote freedom, peace, justice, and human dignity.
