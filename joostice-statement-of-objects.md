@@ -20,8 +20,6 @@
 
 3. To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
 
-6. Any member of Joostice may nominate groups, individuals or projects for funding or support.
-
 7. Joostice shall make decisions on the allocation of funding by consensus of the board and its members.
 
 8. Joostice shall be transparent in all its financial dealings, unless such transparency would pose a threat to life or liberty.
