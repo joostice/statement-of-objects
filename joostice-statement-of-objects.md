@@ -16,7 +16,7 @@
 
 	2.4. Whistle-blowing and infrastructure that supports and protects Whistle-blowers
 
-	2.5. ‘Public interest’ is to be determined by the committee of management. ‘Public’ is to be understood in the broadest, global, terms.
+	2.5. ‘Public interest’ is to be determined by the committee of management. ‘Public’ includes each and every passenger aboard spaceship Earth.
 
 3. To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
 
