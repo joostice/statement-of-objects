@@ -6,11 +6,15 @@
 
 1. The name of the association shall be ‘Joostice’.
 
-2. Joostice exists to support, through direct funding and other means, activities that shed light on matters of public interest.
+2. Joostice exists to support, through direct funding and other means, activities that shed light on matters of public interest:
 
-	2.1. ‘Critical’ is to be understood in context of need, the capacity of the undertaking to shape public discourse and the magnitude of the issue under examination.
+	2.1. Public Interest Journalism and its supportive infrastructure
 
-	2.2. ‘Public interest’ is to be determined by the board and its members. ‘Public’ is to be understood in the broadest, global, terms.
+	2.2. Non-Violent Direct Action
+	
+	2.3. Campaigns
+
+	2.4. ‘Public interest’ is to be determined by the committee of management. ‘Public’ is to be understood in the broadest, global, terms.
 
 3. To achieve these objects, Joostice shall run commercial enterprises; including, but not limited to, the production and sale of fresh, cold-pressed juice.
 
