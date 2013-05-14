@@ -4,9 +4,7 @@
 
 ### Objects;
 
-1. The name of the association shall be ‘Joostice’.
-
-2. Joostice exists to support, through direct funding and other means, activities that shed light on matters of public interest:
+1. Joostice exists to support, through direct funding and other means, activities that shed light on matters of public interest:
 
 	2.1. Public Interest Journalism and its supportive infrastructure
 
