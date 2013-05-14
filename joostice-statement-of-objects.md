@@ -1,8 +1,5 @@
-### Associations Incorporation Act 2009
 
 # Joostice - Statement of Objects
-
-### Objects;
 
 1. Joostice exists to support, through direct funding and other means, public interest journalism and its supportive infrastructure and other activities that shed light on matters of public interest.
 
